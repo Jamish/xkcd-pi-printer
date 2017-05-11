@@ -7,7 +7,7 @@ See my blog post about it at http://jamish.github.io/pi/python/hardware/3dprint/
 # Dependencies
 1. [XKCD](https://pypi.python.org/pypi/xkcd/) library
 2. [PIL](http://www.pythonware.com/products/pil/) library
-3. [https://github.com/adafruit/Python-Thermal-Printer ](Python-Thermal-Printer) library
+3. [Python-Thermal-Printer](https://github.com/adafruit/Python-Thermal-Printer) library from Adafruit
 
 # Usage
 Either just run ./run.sh whenever you feel like it, or create a crontab entry with `crontab -e` to fetch a new comic every day:
