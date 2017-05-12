@@ -2,7 +2,7 @@
 Raspberry Pi + XKCD + Thermal Printer goodness. For use with the [Adafruit thermal printer](https://www.adafruit.com/product/2751)
 
 # Demo
-See my blog post about it at http://jamish.github.io/pi/python/hardware/3dprint/2017/05/08/pi-printer.html
+See my blog post about it at http://jamish.github.io/pi/python/hardware/3dprint/2017/05/11/pi-printer.html
 
 # Dependencies
 1. [XKCD](https://pypi.python.org/pypi/xkcd/) library
